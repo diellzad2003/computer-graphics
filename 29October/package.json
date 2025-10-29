@@ -1,5 +1,5 @@
 {
-  "name": "intro",
+  "name": "29october",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lil-gui": "^0.21.0",
-    "three": "^0.180.0"
-  }
+  "license": "ISC"
 }
